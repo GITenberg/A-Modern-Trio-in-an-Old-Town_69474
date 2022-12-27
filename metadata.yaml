@@ -1,0 +1,38 @@
+_repo: A-Modern-Trio-in-an-Old-Town_69474
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dennis, Morgan
+    birthdate: 1891
+    gutenberg_agent_id: '37103'
+    url: http://www.gutenberg.org/2009/agents/37103
+creator:
+  author:
+    agent_name: Haviland-Taylor, Katharine
+    aliases:
+    - Haviland, Katharine Taylor
+    - Taylor, Katharine Haviland
+    birthdate: 1888
+    deathdate: 1941
+    gutenberg_agent_id: '50685'
+    url: http://www.gutenberg.org/2009/agents/50685
+description: ''
+gutenberg_issued: '2022-12-04'
+identifiers:
+  gutenberg: '69474'
+language: en
+pgterms:marc904: https://archive.org/details/moderntrioinoldt00tayl
+pgterms:marc905: 20190422092615taylor
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Krista Zaleski, Marki Desjardins, and the online Distributed Proofreaders
+  Canada team at https://www.pgdpcanada.net from page images generously made available
+  by archive.org.
+publication_note: 'United States: Harcourt, Brace and Company,1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Modern Trio in an Old Town
+url: http://www.gutenberg.org/ebooks/69474
