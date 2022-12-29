@@ -6,6 +6,9 @@ contributor:
     birthdate: 1891
     gutenberg_agent_id: '37103'
     url: http://www.gutenberg.org/2009/agents/37103
+covers:
+- cover_type: archival
+  image_path: 69474-h/images/cover.jpg
 creator:
   author:
     agent_name: Haviland-Taylor, Katharine
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '50685'
     url: http://www.gutenberg.org/2009/agents/50685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69474#A-Modern-Trio-in-an-Old-Town
 gutenberg_issued: '2022-12-04'
 identifiers:
   gutenberg: '69474'
